@@ -4,7 +4,7 @@
 # ============================== SUMMARY =====================================
 #
 # Program   : notify_sms.pl
-# Version   : 1.4.2
+# Version   : 1.0.0
 # Date      : 03 Dec 2015
 # Author    : Boris Vogel / LabsMobile
 # Copyright : LabsMobile All rights reserved.
