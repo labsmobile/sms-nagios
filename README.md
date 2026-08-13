@@ -4,7 +4,7 @@
 
 # LabsMobile-Nagios
 
-![](https://img.shields.io/badge/version-1.4.2-blue.svg)
+![](https://img.shields.io/badge/version-1.0.0-blue.svg)
  
 Send SMS messages through the LabsMobile platform and Nagios. Install the LabsMobile script for Nagios and in a few seconds you will be able to send SMS messages.
 
